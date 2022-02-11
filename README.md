@@ -1,6 +1,7 @@
-[![MasterHead](https://twitter.com/AmarnathPeddak4/header_photo)](https://AmarnathPeddakotla.github.io
+[![MasterHead](https://twitter.com/AmarnathPeddak4/header_photo)](https://AmarnathPeddakotla.github.com
 )
 
+Code for GIF:
 
 <h1 align="center">Hi 👋, I'm Amarnath Peddakotla</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **JS,HTML,CSS**
 
-- 👨‍💻 All of my projects are available at [https://AmarnathPeddakotla.github.io](https://AmarnathPeddakotla.github.io)
+- 👨‍💻 All of my projects are available at [https://AmarnathPeddakotla.github.com](https://AmarnathPeddakotla.github.com)
 
 - 💬 Ask me about **AngularJS,Python**
 
@@ -19,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/amarnathpeddak4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarnathpeddak4" height="30" width="40" /></a>
 <a href="https://fb.com/telugustorytube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="telugustorytube" height="30" width="40" /></a>
 <a href="https://instagram.com/telugustorytube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="telugustorytube" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/telugustorytube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="telugustorytube" height="30" width="40" /></a>
@@ -29,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarnathpeddakotla&show_icons=true&locale=en&layout=compact" alt="amarnathpeddakotla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarnathpeddakotla&show_icons=true&locale=en" alt="amarnathpeddakotla" /></p
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarnathpeddakotla&show_icons=true&locale=en" alt="amarnathpeddakotla" /></p>
