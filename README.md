@@ -7,7 +7,8 @@ Code for GIF:
 <h3 align="center">A passionate frontend developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarnathpeddakotla&label=Profile%20views&color=0e75b6&style=flat" alt="amarnathpeddakotla" /> </p>
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642
+...")
 - 🌱 I’m currently learning **JS,HTML,CSS**
 
 - 👨‍💻 All of my projects are available at [https://AmarnathPeddakotla.github.com](https://AmarnathPeddakotla.github.com)
